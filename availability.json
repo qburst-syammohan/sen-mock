@@ -1,0 +1,294 @@
+{
+  "success": true,
+  "available_suites": {
+    "id": 346,
+    "property_code": "SNTTST",
+    "name": "Sentral Demo Community",
+    "description": "description",
+    "address": "1614 E 6th St.",
+    "lowest_priced_room": [
+      {
+        "average_price": 142,
+        "rate_plan_name": "Dylan's Car Care"
+      }
+    ],
+    "list": [
+      {
+        "uid": "1859",
+        "code": "IN005",
+        "name": "Studio Suite on East 6th St.",
+        "description": "Studio suite test data",
+        "availability": 5,
+        "max_occupancy": 2,
+        "applicable_offers": [
+          {
+            "uid": "174769",
+            "name": "Excel Sports Management",
+            "offer_code": "SEXCEL",
+            "description": "Excel Sports Management - 15% off rack rate",
+            "booking_end_date": "2023-12-27",
+            "booking_start_date": "2023-12-25",
+            "checkin_time": "16:00",
+            "checkout_time": "11:00",
+            "deposit_amount": 0,
+            "deposit_policy": "FULL PREPAYMENT DUE 24 HOURS PRIOR TO ARRIVAL 4PM LOCAL TIME",
+            "cancellation_policy": "FULL REFUNDABLE 24-HOUR PRIOR TO ARRIVAL / FIRST NIGHT CHARGED THEREAFTER",
+            "total_price": 300,
+            "total_tax": 36,
+            "rate_details": [
+              {
+                "day": "2023-12-25",
+                "description": "Room",
+                "discounted_price": 150,
+                "price": 150
+              },
+              {
+                "day": "2023-12-26",
+                "description": "Room",
+                "discounted_price": 150,
+                "price": 170
+              }
+            ],
+            "tax_and_service_charges": [
+              {
+                "amount": 15,
+                "code": "701",
+                "name": "Taxes 1"
+              },
+              {
+                "amount": 21,
+                "code": "702",
+                "name": "Taxes 2"
+              }
+            ]
+          },
+          {
+            "uid": "176274",
+            "name": "Dylan's Car Care",
+            "offer_code": "SDYLAN5",
+            "description": "Dylan's Car Care",
+            "booking_end_date": "2023-12-27",
+            "booking_start_date": "2023-12-25",
+            "checkin_time": "16:00",
+            "checkout_time": "11:00",
+            "deposit_amount": 0,
+            "deposit_policy": "",
+            "cancellation_policy": "",
+            "total_price": 284,
+            "total_tax": 34.63,
+            "rate_details": [
+              {
+                "day": "2023-12-25",
+                "description": "Room",
+                "discounted_price": 142,
+                "price": 150
+              },
+              {
+                "day": "2023-12-26",
+                "description": "Room",
+                "discounted_price": 142,
+                "price": 150
+              }
+            ],
+            "tax_and_service_charges": [
+              {
+                "amount": 14.75,
+                "code": "701",
+                "name": "Taxes 1"
+              },
+              {
+                "amount": 19.88,
+                "code": "702",
+                "name": "Taxes 2"
+              }
+            ]
+          }
+        ]
+      },
+      {
+        "uid": "1846",
+        "code": "IN003",
+        "name": "Studio Apt on East 6th St.",
+        "description": "1 bed, Bath, 560 sq ft",
+        "availability": 2,
+        "max_occupancy": 5,
+        "applicable_offers": [
+          {
+            "uid": "174769",
+            "name": "Excel Sports Management",
+            "offer_code": "SEXCEL",
+            "description": "Excel Sports Management - 15% off rack rate",
+            "booking_end_date": "2023-12-27",
+            "booking_start_date": "2023-12-25",
+            "checkin_time": "16:00",
+            "checkout_time": "11:00",
+            "deposit_amount": 0,
+            "deposit_policy": "FULL PREPAYMENT DUE 24 HOURS PRIOR TO ARRIVAL 4PM LOCAL TIME",
+            "cancellation_policy": "FULL REFUNDABLE 24-HOUR PRIOR TO ARRIVAL / FIRST NIGHT CHARGED THEREAFTER",
+            "total_price": 300,
+            "total_tax": 36,
+            "rate_details": [
+              {
+                "day": "2023-12-25",
+                "description": "Room",
+                "discounted_price": 150,
+                "price": 150
+              },
+              {
+                "day": "2023-12-26",
+                "description": "Room",
+                "discounted_price": 150,
+                "price": 170
+              }
+            ],
+            "tax_and_service_charges": [
+              {
+                "amount": 15,
+                "code": "701",
+                "name": "Taxes 1"
+              },
+              {
+                "amount": 21,
+                "code": "702",
+                "name": "Taxes 2"
+              }
+            ]
+          },
+          {
+            "uid": "176274",
+            "name": "Dylan's Car Care",
+            "offer_code": "SDYLAN5",
+            "description": "Dylan's Car Care",
+            "booking_end_date": "2023-12-27",
+            "booking_start_date": "2023-12-25",
+            "checkin_time": "16:00",
+            "checkout_time": "11:00",
+            "deposit_amount": 0,
+            "deposit_policy": "",
+            "cancellation_policy": "",
+            "total_price": 284,
+            "total_tax": 34.63,
+            "rate_details": [
+              {
+                "day": "2023-12-25",
+                "description": "Room",
+                "discounted_price": 142,
+                "price": 150
+              },
+              {
+                "day": "2023-12-26",
+                "description": "Room",
+                "discounted_price": 142,
+                "price": 150
+              }
+            ],
+            "tax_and_service_charges": [
+              {
+                "amount": 14.75,
+                "code": "701",
+                "name": "Taxes 1"
+              },
+              {
+                "amount": 19.88,
+                "code": "702",
+                "name": "Taxes 2"
+              }
+            ]
+          }
+        ]
+      },
+      {
+        "uid": "1848",
+        "code": "IN004",
+        "name": "1 BR Apt on East 6th St.",
+        "description": "Test Data",
+        "availability": 5,
+        "max_occupancy": 4,
+        "applicable_offers": [
+          {
+            "uid": "174769",
+            "name": "Excel Sports Management",
+            "offer_code": "SEXCEL",
+            "description": "Excel Sports Management - 15% off rack rate",
+            "booking_end_date": "2023-12-27",
+            "booking_start_date": "2023-12-25",
+            "checkin_time": "16:00",
+            "checkout_time": "11:00",
+            "deposit_amount": 0,
+            "deposit_policy": "FULL PREPAYMENT DUE 24 HOURS PRIOR TO ARRIVAL 4PM LOCAL TIME",
+            "cancellation_policy": "FULL REFUNDABLE 24-HOUR PRIOR TO ARRIVAL / FIRST NIGHT CHARGED THEREAFTER",
+            "total_price": 300,
+            "total_tax": 36,
+            "rate_details": [
+              {
+                "day": "2023-12-25",
+                "description": "Room",
+                "discounted_price": 150,
+                "price": 150
+              },
+              {
+                "day": "2023-12-26",
+                "description": "Room",
+                "discounted_price": 150,
+                "price": 170
+              }
+            ],
+            "tax_and_service_charges": [
+              {
+                "amount": 15,
+                "code": "701",
+                "name": "Taxes 1"
+              },
+              {
+                "amount": 21,
+                "code": "702",
+                "name": "Taxes 2"
+              }
+            ]
+          },
+          {
+            "uid": "176274",
+            "name": "Dylan's Car Care",
+            "offer_code": "SDYLAN5",
+            "description": "Dylan's Car Care",
+            "booking_end_date": "2023-12-27",
+            "booking_start_date": "2023-12-25",
+            "checkin_time": "16:00",
+            "checkout_time": "11:00",
+            "deposit_amount": 0,
+            "deposit_policy": "",
+            "cancellation_policy": "",
+            "total_price": 284,
+            "total_tax": 34.63,
+            "rate_details": [
+              {
+                "day": "2023-12-25",
+                "description": "Room",
+                "discounted_price": 142,
+                "price": 150
+              },
+              {
+                "day": "2023-12-26",
+                "description": "Room",
+                "discounted_price": 142,
+                "price": 150
+              }
+            ],
+            "tax_and_service_charges": [
+              {
+                "amount": 14.75,
+                "code": "701",
+                "name": "Taxes 1"
+              },
+              {
+                "amount": 19.88,
+                "code": "702",
+                "name": "Taxes 2"
+              }
+            ]
+          }
+        ]
+      }
+    ]
+  }
+}
